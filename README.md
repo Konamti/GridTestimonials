@@ -44,7 +44,7 @@ Users should be able to:
 ### What I learned
 
 I didn't know I could manipulate the postion of background image using the x and y axis.
-I was interesting to learn this property.
+It was interesting to learn this property.
 
 ```css
 background-position-x: calc(100% - 70px);
